@@ -12,7 +12,6 @@ void main() async {
     print('Port $port is open');
     socket.close();
   }
-
   
   print('Port scan completed.');
 }

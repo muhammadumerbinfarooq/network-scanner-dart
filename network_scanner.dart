@@ -13,6 +13,7 @@ void main() async {
     socket.close();
   }
 
+  
   print('Port scan completed.');
 }
 
